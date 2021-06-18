@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: ab0ce348c71904603a121965dad6f403
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3420787637793134689
+    second: GS Ice blocks-1.png_0
+  - first:
+      213: 6153739473180153599
+    second: GS Ice blocks-1.png_1
+  - first:
+      213: -5775202181610021868
+    second: GS Ice blocks-1.png_2
+  - first:
+      213: -4074711720617800587
+    second: GS Ice blocks-1.png_3
+  - first:
+      213: -4005050356000250431
+    second: GS Ice blocks-1.png_4
+  - first:
+      213: 4653731548218097662
+    second: GS Ice blocks-1.png_5
+  - first:
+      213: 2021121019088554469
+    second: GS Ice blocks-1.png_6
+  - first:
+      213: 298689610022841777
+    second: GS Ice blocks-1.png_7
+  - first:
+      213: -4336230794133934305
+    second: GS Ice blocks-1.png_8
+  - first:
+      213: 1701198111323836075
+    second: GS Ice blocks-1.png_9
+  - first:
+      213: -4535391488869314371
+    second: GS Ice blocks-1.png_10
+  - first:
+      213: 8998801097022350208
+    second: GS Ice blocks-1.png_11
+  - first:
+      213: 4088672817220033408
+    second: GS Ice blocks-1.png_12
+  - first:
+      213: 796193800988576585
+    second: GS Ice blocks-1.png_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 312
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ea4d74cbe680d0800000000000000
+      internalID: -3420787637793134689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 325
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d33b6279766550800000000000000
+      internalID: 6153739473180153599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 351
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd213d63c5adfa0800000000000000
+      internalID: -5775202181610021868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 26
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c84726747b377c0800000000000000
+      internalID: -4074711720617800587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 195
+        width: 156
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ad0fbbe33b68c0800000000000000
+      internalID: -4005050356000250431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 234
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7193cf20659040800000000000000
+      internalID: 4653731548218097662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 143
+        width: 26
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e949d6cbd67c0c10800000000000000
+      internalID: 2021121019088554469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde2872e98252400800000000000000
+      internalID: 298689610022841777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 117
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f698b211d92d3c0800000000000000
+      internalID: -4336230794133934305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec50e3baedb9710800000000000000
+      internalID: 1701198111323836075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 104
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05d9c687d0f01c0800000000000000
+      internalID: -4535391488869314371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a9688be922ec70800000000000000
+      internalID: 8998801097022350208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 13
+        width: 104
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1239b342edb830800000000000000
+      internalID: 4088672817220033408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GS Ice blocks-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 13
+        width: 182
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bca482b06ac0b00800000000000000
+      internalID: 796193800988576585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

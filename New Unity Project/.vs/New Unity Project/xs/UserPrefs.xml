@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlatformerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="34" Column="57" />
+      <File FileName="Assets/Scripts/PlatformerController.cs" Line="107" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlatformerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="40c6a531-b5ef-4ba9-bb9a-b035db2eb5af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
